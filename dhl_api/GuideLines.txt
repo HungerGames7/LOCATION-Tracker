@@ -1,0 +1,6 @@
+The below are the guilines for the module.
+
+1. Enable the dhl_api module.
+2. Once enabled th emodule will create a form at '/dhl-api'.
+3. The API 'GETs' the data from the remote DHL location and siplays as per the availability (like weekdays, weekends, odd, etc).
+4. Both Kernel and Functional Tests are provided.
