@@ -1,0 +1,7 @@
+dhl_api.settings_form:
+  path: '/dhl-api'
+  defaults:
+    _title: 'DHL API synchronization'
+    _form: '\Drupal\dhl_api\Form\DhlSyncForm'
+  requirements:
+    _access: 'TRUE'
